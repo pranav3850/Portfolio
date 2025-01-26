@@ -20,7 +20,7 @@ require 'php-mailer/src/SMTP.php';
 require 'php-mailer/src/Exception.php';
 
 // Step 1 - Enter your email address below.
-$email = 'ptlshubham@gmail.com';
+$email = 'pranavgoswami38@gmail.com;
 
 // If the e-mail is not working, change the debug option to 2 | $debug = 2;
 $debug = 0;
@@ -59,7 +59,7 @@ try {
     $mail->isSMTP();                                         // Set mailer to use SMTP
     $mail->Host = 'smtp.gmail.com';                           // Specify main and backup server
     $mail->SMTPAuth = true;                                  // Enable SMTP authentication
-    $mail->Username = 'ptlshubham@gmail.com';                 // SMTP username (your Gmail address)
+    $mail->Username = 'pranavgoswami38@gmail.com';                 // SMTP username (your Gmail address)
     $mail->Password = 'your-password';                        // SMTP password (your Gmail password)
     $mail->SMTPSecure = 'tls';                               // Enable encryption, 'ssl' also accepted
     $mail->Port = 587;                                       // TCP port to connect to

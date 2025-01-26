@@ -1,6 +1,7 @@
-# Shubham Patel - Portfolio
+# Pranav Goswami - Portfolio
 
-Welcome to the portfolio of Shubham Patel, a professional web developer who specialises in Angular, HTML5, HTML, JavaScript, Node.js, CSS, GitHub, and Hostinger. Explore a handpicked collection of my finest web development work, including Angular websites, mobile apps, websites, and portfolios. Contact me to discuss prospective collaborations or projects and to bring your concepts to reality.
+Welcome to portfolio of Pranav Goswami a experienced Full Stack Developer with 4 years of expertise in designing, developing, and deploying robust web and mobile applications. Proficient in Angular, Node.js, ASP.NET, 
+Ionic, MySQL, Oracle and AWS, Hostinger. Skilled in leading teams, collaborating on complex projects, and delivering high-quality solutions. Demonstrated success in web hosting, server management, and implementing scalable, user-friendly systems. Adept at managing end to-end development processes, ensuring timely delivery, and driving innovation to meet client objectives.
 
 ## Technologies and Skills
 
@@ -23,6 +24,8 @@ Welcome to the portfolio of Shubham Patel, a professional web developer who spec
 - Code Optimization
 - Cross-platform Development
 - Collaboration Opportunities
+- Docker
+- Asp.NET
 
 ## Projects
 
@@ -42,12 +45,9 @@ Feel free to explore these projects to get an idea of my skills and capabilities
 
 I am open to collaboration opportunities and would love to discuss potential projects with you. If you have any questions or would like to get in touch, please feel free to reach out to me:
 
-- Email: [ptlshubham@gmail.com](mailto:ptlshubham@gmail.com)
-- LinkedIn: [https://www.linkedin.com/in/shubham-patel-bb5810b0/](https://www.linkedin.com/in/shubham-patel-bb5810b0/)
-- GitHub: [https://github.com/ptlshubham](https://github.com/ptlshubham)
-- Facebook:[https://www.facebook.com/shubham7696](https://www.facebook.com/shubham7696)
-- Instagram:[https://www.instagram.com/shubhampatel_oo7/](https://www.instagram.com/shubhampatel_oo7/)
-- Skype:[skype:ptlshubham@hotmail.com?chat](skype:ptlshubham@hotmail.com?chat)
+- Email: [pranavgoswami38@gmail.com](mailto:pranavgoswsmi38@gmail.com)
+- LinkedIn: [https://www.linkedin.com/in/pranavgoswami38](https://www.linkedin.com/in/pranavgoswami38)
+- GitHub: [https://github.com/pranav3850](https://github.com/pranav3850)
 Let's work together to bring your ideas to life!
 
 ## License
