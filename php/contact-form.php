@@ -23,7 +23,7 @@ require 'php-mailer/src/Exception.php';
 $email = 'pranavgoswami38@gmail.com;
 
 // If the e-mail is not working, change the debug option to 2 | $debug = 2;
-$debug = 0;
+$debug = 2;
 
 // If contact form doesn't have the subject input, change the value of the subject here
 $subject = (isset($_POST['subject'])) ? $_POST['subject'] : 'Define subject in php/contact-form.php line 29';
